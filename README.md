@@ -33,6 +33,6 @@ To test the algorithms, you need to change the parameters in config.cfg and run:
 
 The code is freely available
 
-## statement
+## Statement
 
 This code is inspired by arXiv:1910.13124
