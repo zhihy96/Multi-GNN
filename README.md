@@ -1,5 +1,5 @@
 # Multi-GNN
-The list of libraries that you need to install to execute the code:
+
 
 ## Dependencies
 
