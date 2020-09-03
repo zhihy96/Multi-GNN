@@ -1,5 +1,5 @@
 # Multi-GNN
-
+Here, we propose several multi-graph-neural-network models including GIAN, GIAT and SGCA for our task through combination and restructure of the different GNN models.
 
 ## Dependencies
 
