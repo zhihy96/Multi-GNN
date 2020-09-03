@@ -1,0 +1,16 @@
+smiles,pic50
+FC1=C(NC(C2=CC(F)=C(N3N=C(CO)N(CC)C3=O)C=C2O[C@@H](C)C(F)(F)F)=O)C(Cl)=CC=C1,
+Nc1nc(O)c2nc(CNc3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc3)cnc2n1,0
+Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](COP(=O)(O)O)OC4=O)cc3F)cn2)n1,0
+O=C(O)c1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,0
+Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O,0
+CNc1ccc(/C=C/c2ccc(OCCOCCOCCF)cc2)cc1,0
+CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,0
+OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,0
+O=C(Nc1ccc2c(=O)cc(-c3nnn[nH]3)oc2c1)c1ccc(OCCCCc2ccccc2)cc1,0
+Nc1nc(N)c2nc(CNc3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc3)cnc2n1,0
+NC(N)=Nc1nc(CSCCN/C=N/S(=O)(=O)c2ccc(Br)cc2)cs1,0
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,0
+O=C(O)c1cc(=O)c2cc(OC[C@H](O)COc3cccc4oc(C(=O)O)cc(=O)c34)ccc2o1,0
+Nc1nc(N)c2nc(CNc3ccc(C(=O)N[C@H](CCC(=O)O)C(=O)O)cc3)cnc2n1,0
+Nc1nc(=S)c2ncn([C@@H]3O[C@H](CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O)c2[nH]1,0
